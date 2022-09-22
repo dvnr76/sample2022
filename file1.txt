@@ -1,3 +1,4 @@
 Hello
 hai
 newline added in master
+newline in feature 2
